@@ -1,3 +1,5 @@
+@import url('https://fonts.cdnfonts.com/css/montserrat');
+
 table,
 tr,
 td,
@@ -10,6 +12,6 @@ td,
 th {
   width: 5ch;
   font-size: xx-large;
-  font-family: "Monospace";
+  font-family: "Montserrat";
   text-align: center;
 }
