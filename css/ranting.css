@@ -1,6 +1,8 @@
+@import url('https://fonts.cdnfonts.com/css/montserrat');
+
 p {
   font-size: xx-large;
-  font-family: "Verdana";
+  font-family: "Montserrat";
 }
 .red {
   color: red;
